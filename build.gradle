@@ -122,6 +122,7 @@ subprojects {
         maven { url "https://maven.wso2.org/nexus/content/repositories/orgballerinaxkubernetes-1238/" }
         /* AwsLambda staging repository */
         maven { url "https://maven.wso2.org/nexus/content/repositories/orgballerinaxawslambda-1136/" }
+        maven { url "https://maven.wso2.org/nexus/content/repositories/orgballerinalang-1586" }
     }
 
     configurations {
