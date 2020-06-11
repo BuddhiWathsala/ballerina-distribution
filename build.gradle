@@ -25,9 +25,9 @@ description = 'Ballerina - Tools - Parent'
 ext {
     ballerinaVersion = project.version
     ballerinaJreArtifactsVersion = "2.0.0"
-    dockerVersion = project.version
-    kubernetesVersion = project.version
-    awslambdaVersion = project.version
+    dockerVersion = "2.0.0-SNAPSHOT"
+    kubernetesVersion = "2.0.0-SNAPSHOT"
+    awslambdaVersion = "2.0.0-SNAPSHOT"
     picocliVersion = "4.0.1"
     ballerinaCommandVersion = "0.8.6-SNAPSHOT"
     testngVersion = "6.14.3"
